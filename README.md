@@ -93,10 +93,8 @@ Python 3.8+ is recommended.
 
 3. **Install dependencies**
    ```bash
-   pip install streamlit pandas scikit-learn joblib
+   pip install -r requirements.txt
    ```
-
-   *(If a `requirements.txt` is added later: `pip install -r requirements.txt`)*
 
 ### Run the App
 
