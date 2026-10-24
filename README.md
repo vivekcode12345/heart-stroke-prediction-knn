@@ -19,6 +19,10 @@ Heart disease is one of the leading causes of mortality worldwide. Early detecti
 - Runs the input through a trained KNN classifier.
 - Displays a clear risk prediction result.
 
+### 🌐 Live Demo
+
+Try the deployed app here: [Heart Stroke Prediction App](https://vivekcode12345-heart-stroke-prediction-knn-app-o7rtko.streamlit.app/)
+
 ---
 
 ## 🗂️ Project Structure
