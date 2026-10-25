@@ -23,6 +23,17 @@ Heart disease is one of the leading causes of mortality worldwide. Early detecti
 
 Try the deployed app here: [Heart Stroke Prediction App](https://vivekcode12345-heart-stroke-prediction-knn-app-o7rtko.streamlit.app/)
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" alt="Home Page" width="45%"/>
+  <img src="screenshots/prediction.png" alt="Prediction Page" width="45%"/>
+</p>
+
+<p align="center">
+  <b>Home Page</b> · Light/whitish theme with hero, stats, and feature cards &nbsp;&nbsp;|&nbsp;&nbsp; <b>Prediction Page</b> · Form inputs and risk result with orange meter bar
+</p>
+
 ---
 
 ## 🗂️ Project Structure
